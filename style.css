@@ -1,3 +1,84 @@
 body {
-  background-color: aliceblue;
+  background-image: url("/img/dj\ Wallpaper.jpg");
+  background-size: 100%;
+}
+
+h1{
+  background-color: gray;
+  border-radius: 1rem 1rem 1rem 1rem;
+  opacity: 80%;
+  display: flex;
+  align-self: center;
+  justify-content: center;
+  align-items: center;
+  width: 565px;
+  padding: 10px;
+}
+
+.tg  {
+  border-collapse:collapse;
+  border-spacing:0;
+  opacity: 80%;
+}
+
+.tg thead, .tg tbody{
+  align-content: center;
+  justify-content: center;
+}
+
+.tg td{
+  border-color:black;
+  border-style:solid;
+  border-width:1px;
+  font-family:Arial, sans-serif;
+  font-size:14px;
+  overflow:hidden;
+  padding:10px 5px;
+  word-break:normal;
+}
+
+.tg th{
+  border-color:black;
+  border-style:solid;
+  border-width:1px;
+  font-family:Arial, sans-serif;
+  font-size:14px;
+  font-weight:normal;
+  overflow:hidden;
+  padding:10px 5px;
+  word-break:normal;
+}
+
+.tg .tg-a03p{
+  background-color:white;
+  border-color:#fe0000;
+  color:#fe0000;
+  text-align:center;
+  text-decoration:underline;
+  vertical-align:top
+}
+
+.tg .tg-k0e7{
+  background-color:white;
+  border-color:#fe0000;
+  color:#fe0000;
+  text-align:center;
+  vertical-align:top
+}
+
+.tg .tg-c3kx{
+  background-color:white;
+  border-color:#3531ff;
+  color:#3531ff;
+  text-align:center;
+  vertical-align:top
+}
+
+footer{
+  margin-top: 25px;
+  position: inherit;
+  background-color: white;
+  border-radius: 1rem 1rem 1rem;
+  width: 585px;
+  text-align: center;
 }
